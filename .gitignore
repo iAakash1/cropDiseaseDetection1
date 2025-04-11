@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Logs
+*.log
+
+# SQLite database files (optional if you use DB)
+*.sqlite3
+
+# System files
+.DS_Store
+
+# IDE settings
+.idea/
+.vscode/
+
+# Uploads folder (user-generated content, optional)
+static/uploads/
+
+
+# Others
+*.swp
+*.bak
